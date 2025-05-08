@@ -1,7 +1,7 @@
 ---
-title: [Document Title]
+title: "Document Title"
 author: Cong Le
-created: 2025-05-07
+created: 2025-05-08
 version: 1.0
 ---
 
@@ -18,7 +18,6 @@ version: 1.0
 > - If you adapt/redistribute these portions, you **must** provide attribution as above and license your derivative work under the same terms.
 > - **Original diagram source code** (e.g., Mermaid, PlantUML, or script syntax BY CONG LE, not including OEIS math/data): **MIT License**, unless otherwise stated.
 > - If you reuse just the code itself for unrelated subjects, **MIT** applies.
-
 
 
 
