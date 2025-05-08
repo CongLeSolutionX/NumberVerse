@@ -1,26 +1,27 @@
 ---
-created: 2025-05-07 05:31:26
+title: "Visualizing OEIS A000578 - The Cubes - Draft"
 author: Cong Le
-version: "1.0"
-license(s): MIT, CC BY 4.0
-copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
-source: https://oeis.org/A000578
+created: 2025-05-08
+version: 1.0
 ---
 
-
-
-# Visual Guide to OEIS Sequence A000578 (Cubes: a(n) = n³)
-> **Disclaimer:**
+> **Source Attribution:**
 >
-> This document contains my personal notes on the topic,
-> compiled from publicly available documentation and various cited sources.
-> The materials are intended for educational purposes, personal study, and reference.
-> The content is dual-licensed:
-> 1. **MIT License:** Applies to all code implementations (Swift, Mermaid, and other programming languages).
-> 2. **Creative Commons Attribution 4.0 International License (CC BY 4.0):** Applies to all non-code content, including text, explanations, diagrams, and illustrations.
+> This document incorporates or adapts material from:
+> - **The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/))
+> - Specific sequence: [OEIS A000578](https://oeis.org/A000578)
+> - © The OEIS Foundation Inc.
+>
+> **License:**
+> 
+> - **OEIS-derived content** (any mathematical data, structure, text, or visuals based on OEIS): **CC BY-SA 4.0**
+> - If you adapt/redistribute these portions, you **must** provide attribution as above and license your derivative work under the same terms.
+> - **Original diagram source code** (e.g., Mermaid, PlantUML, or script syntax BY CONG LE, not including OEIS math/data): **MIT License**, unless otherwise stated.
+> - If you reuse just the code itself for unrelated subjects, **MIT** applies.
+
 ---
 
-
+# Visualizing OEIS Sequence A000578 (The Cubes: a(n) = n³) - Draft
 
 This document explores and visually illustrates the mathematical, combinatorial, geometric, and algebraic properties of the sequence **A000578: The Cubes** as detailed in the OEIS entry. Below is a set of interconnected diagrams (in Mermaid syntax) that together clarify and synthesize the main ideas, connections, and formulas present in [the comprehensive OEIS documentation](https://oeis.org/A000578).
 
@@ -759,9 +760,14 @@ root(("A000578<br/> Cubes n³"))
 
 
 ---
-**Licenses:**
 
-- **MIT License:**  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) - Full text in [LICENSE](LICENSE) file.
-- **Creative Commons Attribution 4.0 International:** [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](LICENSE-CC-BY) - Legal details in [LICENSE-CC-BY](LICENSE-CC-BY) and at [Creative Commons official site](http://creativecommons.org/licenses/by/4.0/).
+**License and Attribution**
+
+> - Mathematical data and exposition adapted from **The Online Encyclopedia of Integer Sequences** (<https://oeis.org/>), [OEIS sequence A000578](https://oeis.org/A000578), © OEIS Foundation Inc., licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/).
+> - Legal details in [LICENSE-CC-BY-SA-4.0](LICENSE-CC-BY-SA-4.0) and at [Creative Commons official site](https://creativecommons.org/licenses/by-sa/4.0/).
+> - Diagram and explanatory code © 2025 Cong Le, **MIT License** [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) (for code **only**)- Full text in [LICENSE](LICENSE) file.  
+>  
+> - If you adapt, redistribute, or make derivative works involving *OEIS-based content*, you must retain this notice and apply **CC BY-SA 4.0**.
 
 ---
+

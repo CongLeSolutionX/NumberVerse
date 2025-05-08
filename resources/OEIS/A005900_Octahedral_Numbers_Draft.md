@@ -1,5 +1,5 @@
 ---
-title: "Visualizing OEIS A005900 - Octahedral Numbers"
+title: "Visualizing OEIS A005900 - Octahedral Numbers - Darft"
 author: Cong Le
 created: 2025-05-08
 version: 1.0
@@ -22,7 +22,7 @@ version: 1.0
 ---
 
 
-# Visualizing OEIS A005900 - Octahedral Numbers
+# Visualizing OEIS A005900 - Octahedral Numbers - Darft
 
 
 Below is a comprehensive set of Mermaid diagrams and and explanatory illustrations capturing the structure and complexity of A005900 (the octahedral numbers sequence) from [the OEIS](https://oeis.org/A005900), describing its formulas, geometric significance, combinatorial interpretations, recurrence relations, links to polyhedral numbers, and numerous mathematical properties.
