@@ -1,24 +1,25 @@
 ---
-created: 2025-05-07 05:31:26
+title: "Visualizing OEIS A005900 - Octahedral Numbers"
 author: Cong Le
-version: "1.0"
-license(s): MIT, CC BY 4.0
-copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
-source: https://oeis.org/A005900
+created: 2025-05-08
+version: 1.0
+
+### Source Attribution
+
+This document incorporates or adapts material from:
+
+- **The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/))
+- Specific sequence: [OEIS A005900](https://oeis.org/A005900)
+- © The OEIS Foundation Inc.
+
+#### License
+Content in this document, including OEIS material and my original additions, is available under  
+[Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ---
 
 
-
-# Visualizing OEIS A005900: Octahedral Numbers
-> **Disclaimer:**
->
-> This document contains my personal notes on the topic,
-> compiled from publicly available documentation and various cited sources.
-> The materials are intended for educational purposes, personal study, and reference.
-> The content is dual-licensed:
-> 1. **MIT License:** Applies to all code implementations (Swift, Mermaid, and other programming languages).
-> 2. **Creative Commons Attribution 4.0 International License (CC BY 4.0):** Applies to all non-code content, including text, explanations, diagrams, and illustrations.
----
+# Visualizing OEIS A005900 - Octahedral Numbers
 
 
 Below is a comprehensive set of Mermaid diagrams and and explanatory illustrations capturing the structure and complexity of A005900 (the octahedral numbers sequence) from [the OEIS](https://oeis.org/A005900), describing its formulas, geometric significance, combinatorial interpretations, recurrence relations, links to polyhedral numbers, and numerous mathematical properties.
@@ -852,22 +853,28 @@ flowchart TD
 | Area              | Details/Formula                                                            |
 | ----------------- | -------------------------------------------------------------------------- |
 | Name/ID           | Octahedral Numbers (OEIS A005900)                                          |
-| Explicit Formula  | a(n) = n·(2n² + 1)/3, or sum of squares as listed above                    |
+| Explicit Formula  | $a(n) = n·(2n² + 1)/3$, or sum of squares as listed above                    |
 | Geometric Meaning | Counts number of points in n-sized octahedron; part of Platonic number set |
-| Recurrence        | a(n) = 4·a(n-1) - 6·a(n-2) + 4·a(n-3) - a(n-4)                             |
-| Gen. Function     | OGF: x(1+x)²/(1-x)^4; EGF: (1/3)x(3+6x+2x²)e^x                             |
+| Recurrence        | $a(n) = 4·a(n-1) - 6·a(n-2) + 4·a(n-3) - a(n-4)$                          |
+| Gen. Function     | OGF: $x(1+x)²/(1-x)^4$; EGF: $(1/3)x(3+6x+2x²)e^x$                           |
 | Cross-references  | Cubes, Tetrahedral, Dodecahedral, Icosahedral, Odd numbers, etc.           |
 | Combinatorics     | Connections to subsets, Young tableaux, group theory (Weyl groups)         |
 | Programs          | Implemented in Python, Maple, Mathematica, Haskell, and more               |
 
+
+
 ---
 
+### License and Attribution
 
+> Mathematical content and sequence data from **The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/)),  
+> [OEIS sequence A005900](https://oeis.org/A005900), © The OEIS Foundation Inc.  
+> Enhanced with commentary, diagrams, and formatting by Cong Le © 2025.  
+>  
+> Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+> You must provide attribution to OEIS and the author, and share under the same license.
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ---
-**Licenses:**
 
-- **MIT License:**  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) - Full text in [LICENSE](LICENSE) file.
-- **Creative Commons Attribution 4.0 International:** [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](LICENSE-CC-BY) - Legal details in [LICENSE-CC-BY](LICENSE-CC-BY) and at [Creative Commons official site](http://creativecommons.org/licenses/by/4.0/).
-
----
