@@ -13,6 +13,7 @@ version: 1.0
 > 3. © The OEIS Foundation Inc.
 >
 > **License**
+> 
 > Content in this document, including OEIS material and my original additions, is available under  
 [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
