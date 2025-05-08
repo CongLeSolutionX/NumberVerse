@@ -7,7 +7,7 @@ version: 1.0
 
 > **Source Attribution:**
 >
-> This document incorporates or adapts material from:
+> Portions of this file (content, math, or diagrams) incorporate, adapt, or visualize data from:
 > 1. **The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/))
 > 2. Specific sequence: [OEIS A005900](https://oeis.org/A005900)
 > 3. © The OEIS Foundation Inc.

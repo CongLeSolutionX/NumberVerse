@@ -8,32 +8,35 @@ version: 1.0
 > **Source Attribution:**
 >
 > This document incorporates or adapts material from:
-> 1. **The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/))
-> 2. Specific sequence: [OEIS Axxxxxx](https://oeis.org/Axxxxxx)
-> 3. © The OEIS Foundation Inc.
+> - **The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/))
+> - Specific sequence: [OEIS Axxxxxx](https://oeis.org/Axxxxxx)
+> - © The OEIS Foundation Inc.
 >
 > **License:**
 > 
-> Content in this document, including OEIS material and my original additions, is available under  
-[Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+> - **OEIS-derived content** (any mathematical data, structure, text, or visuals based on OEIS): **CC BY-SA 4.0**
+> - If you adapt/redistribute these portions, you **must** provide attribution as above and license your derivative work under the same terms.
+> - **Original diagram source code** (e.g., Mermaid, PlantUML, or script syntax BY CONG LE, not including OEIS math/data): **MIT License**, unless otherwise stated.
+> - If you reuse just the code itself for unrelated subjects, **MIT** applies.
+
+
+
 
 ---
 
 
 [main content]
 
+
 ---
 
-### License and Attribution
+**License and Attribution**
 
-> Mathematical content and sequence data from **The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/)),  
-> [OEIS sequence Axxxxxx](https://oeis.org/Axxxxxx), © The OEIS Foundation Inc.  
-> Enhanced with commentary, diagrams, and formatting by Cong Le © 2025.  
+> - Mathematical data and exposition adapted from **The Online Encyclopedia of Integer Sequences** (<https://oeis.org/>), [OEIS sequence Axxxxxx](https://oeis.org/Axxxxxx), © OEIS Foundation Inc., licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/).
+> - Legal details in [LICENSE-CC-BY-SA-4.0](LICENSE-CC-BY-SA-4.0) and at [Creative Commons official site](https://creativecommons.org/licenses/by-sa/4.0/).
+> - Diagram and explanatory code © 2025 Cong Le, **MIT License** [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) (for code **only**)- Full text in [LICENSE](LICENSE) file.  
 >  
-> Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-> You must provide attribution to OEIS and the author, and share under the same license.
-
-[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+> - If you adapt, redistribute, or make derivative works involving *OEIS-based content*, you must retain this notice and apply **CC BY-SA 4.0**.
 
 ---
 

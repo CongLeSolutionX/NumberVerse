@@ -65,7 +65,7 @@ All **original code** in this repository (in `/Scripts` or similar) is licensed 
   > “This script includes/adapts code from [ProjectX](https://github.com/some/projectx) under the MIT License.”
 
 #### D) Custom Diagrams & Notes
-- **License**: By default, MIT (code/scripts), CC BY 4.0 (creative works), or as you determine—**but mark clearly**
+- **License**: By default, MIT (code/scripts), CC BY 4.0 (creative works).
 - **If containing OEIS/Wikipedia content**: Must inherit upstream license (typically CC BY-SA)
 
 ---
