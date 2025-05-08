@@ -5,6 +5,8 @@ created: 2025-05-08
 version: 1.0
 ---
 
+
+# Article Title
 > **Source Attribution:**
 >
 > This document incorporates or adapts material from:

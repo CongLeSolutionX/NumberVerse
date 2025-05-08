@@ -5,12 +5,14 @@ created: 2025-05-08
 version: 1.0
 ---
 
+# Visualizing OEIS Sequence A000578 (The Cubes: a(n) = n³) - Draft
+
 > **Source Attribution:**
 >
 > This document incorporates or adapts material from:
 > - **The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/))
 > - Specific sequence: [OEIS A000578](https://oeis.org/A000578)
-> - © The OEIS Foundation Inc.
+> - **© The OEIS Foundation Inc.**
 >
 > **License:**
 > 
@@ -21,7 +23,7 @@ version: 1.0
 
 ---
 
-# Visualizing OEIS Sequence A000578 (The Cubes: a(n) = n³) - Draft
+
 
 This document explores and visually illustrates the mathematical, combinatorial, geometric, and algebraic properties of the sequence **A000578: The Cubes** as detailed in the OEIS entry. Below is a set of interconnected diagrams (in Mermaid syntax) that together clarify and synthesize the main ideas, connections, and formulas present in [the comprehensive OEIS documentation](https://oeis.org/A000578).
 

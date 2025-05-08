@@ -5,12 +5,13 @@ created: 2025-05-08
 version: 1.0
 ---
 
+# Visualizing OEIS A005900 - Octahedral Numbers - Draft
 > **Source Attribution:**
 >
 > This document incorporates or adapts material from:
 > - **The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/))
 > - Specific sequence: [OEIS A005900](https://oeis.org/A005900)
-> - © The OEIS Foundation Inc.
+> - **© The OEIS Foundation Inc.**
 >
 > **License:**
 > 
@@ -20,10 +21,6 @@ version: 1.0
 > - If you reuse just the code itself for unrelated subjects, **MIT** applies.
 
 ---
-
-
-# Visualizing OEIS A005900 - Octahedral Numbers - Draft
-
 
 Below is a comprehensive set of Mermaid diagrams and and explanatory illustrations capturing the structure and complexity of A005900 (the octahedral numbers sequence) from [the OEIS](https://oeis.org/A005900), describing its formulas, geometric significance, combinatorial interpretations, recurrence relations, links to polyhedral numbers, and numerous mathematical properties.
 

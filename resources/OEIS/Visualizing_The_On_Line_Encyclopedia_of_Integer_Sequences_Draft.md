@@ -569,7 +569,7 @@ config:
     'fontFamily': 'Monaco',
     'themeVariables': {
       'primaryColor': '#F5E3',
-      'primaryTextColor': '#A32',
+      'primaryTextColor': '#F8B229',
       'lineColor': '#F8B229',
       'primaryBorderColor': '#27AE60',
       'secondaryColor': '#EBDEF0',

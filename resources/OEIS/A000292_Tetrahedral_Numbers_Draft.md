@@ -5,6 +5,7 @@ created: 2025-05-08
 version: 1.0
 ---
 
+# Visualizing OEIS A000292 - The Tetrahedral Numbers - Draft
 > **Source Attribution:**
 >
 > This document incorporates or adapts material from:
@@ -18,9 +19,6 @@ version: 1.0
 > - If you adapt/redistribute these portions, you **must** provide attribution as above and license your derivative work under the same terms.
 > - **Original diagram source code** (e.g., Mermaid, PlantUML, or script syntax BY CONG LE, not including OEIS math/data): **MIT License**, unless otherwise stated.
 > - If you reuse just the code itself for unrelated subjects, **MIT** applies.
-
-
-# Visualizing OEIS A000292 - The Tetrahedral Numbers - Draft
 
 
 The following collection of **Mermaid diagrams** comprehensively illustrates the core mathematical, combinatorial, geometric, and algebraic concepts in the extensive documentation for [OEIS A000292 (Tetrahedral Numbers)](https://oeis.org/A000292).
