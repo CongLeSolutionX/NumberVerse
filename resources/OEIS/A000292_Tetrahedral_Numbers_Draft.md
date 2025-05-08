@@ -10,7 +10,7 @@ version: 1.0
 > This document incorporates or adapts material from:
 > - **The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/))
 > - Specific sequence: [OEIS A000292](https://oeis.org/A000292)
-> - © The OEIS Foundation Inc.
+> - **© The OEIS Foundation Inc.**
 >
 > **License:**
 > 
@@ -36,7 +36,7 @@ The following collection of **Mermaid diagrams** comprehensively illustrates the
 title: "Binomial and Closed Formula"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -79,7 +79,7 @@ flowchart TD
 title: "Generating Function"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -123,7 +123,7 @@ flowchart TD
 title: "Triangular Pyramid (“Stacking Balls”) Visualization"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -165,7 +165,7 @@ flowchart TD
 title: "Polyhedral Numbers Context"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -212,7 +212,7 @@ flowchart TD
 title: "Multinomial and Permutation Structures"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -255,7 +255,7 @@ flowchart TB
 title: "Partition and Coloring"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -299,7 +299,7 @@ flowchart TD
 title: "Linear Recurrence"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -338,7 +338,7 @@ flowchart TD
 title: "Pascal Matrix and Related Diagonals"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -378,7 +378,7 @@ flowchart TD
 title: "Matrix Determinant"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -420,7 +420,7 @@ flowchart TB
 title: "Triangular Matchsticks, Grid Circles, Polytope Vertices"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -460,7 +460,7 @@ flowchart TB
 title: "Wiener Index and Graphs"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -503,7 +503,7 @@ flowchart LR
 title: "Relations to Related Sequences (OEIS Crosslinks)"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -557,7 +557,7 @@ flowchart TD
 title: "Common Code / Generating Program Map"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -603,7 +603,7 @@ flowchart TD
 title: "Matryoshka/Folded Structure"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -647,7 +647,7 @@ flowchart TD
 title: "Applications and Appearances"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -718,7 +718,7 @@ classDiagram
 title: "Interlinked Structures, Themes, and Cross-Domain Connections"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -773,7 +773,7 @@ flowchart TB
 title: "Initial Values Chart (Compact)"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   theme: default
@@ -813,7 +813,7 @@ pie showData
 title: "Primary Cross-References Navigable Map"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -864,7 +864,7 @@ flowchart TD
 title: "Antidiagonal in Multiplication Table Illustration"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -905,7 +905,7 @@ flowchart TD
 title: "Symmetries and Colorings in Triangles"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk

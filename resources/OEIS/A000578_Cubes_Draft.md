@@ -34,7 +34,7 @@ This document explores and visually illustrates the mathematical, combinatorial,
 title: "Sequence Overview and Core Formula"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -82,7 +82,7 @@ flowchart TD
 title: "Mathematical Properties: Prime Factorization & Multiplicativity"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -125,7 +125,7 @@ flowchart TD
 title: "Main Formulas (Algebraic, Generating Functions, Binomial)"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -178,7 +178,7 @@ flowchart LR
 title: "Odd Number Grouping and Sums"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -218,7 +218,7 @@ flowchart TD
 title: "Polyhedral and Spatial Representations"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -262,7 +262,7 @@ flowchart TB
 title: "Partitioned Hexagon Tiling"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -302,7 +302,7 @@ flowchart TD
 title: "Combinatorial Colorings"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -343,7 +343,7 @@ flowchart TD
 title: "Diophantine Equations Connections"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -387,7 +387,7 @@ flowchart TD
 title: "Relationships with Other Sequences"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -433,7 +433,7 @@ erDiagram
 title: "Geometric Group/Number Triangle Construction (For n=4 Example)"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -480,7 +480,7 @@ flowchart TD
 title: "Special Sums, Products and Zeta Functions"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -529,7 +529,7 @@ flowchart TD
 title: "Triangle Partition Interpretation"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -571,7 +571,7 @@ flowchart LR
 title: "Recurrences and Difference Equations"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -644,7 +644,7 @@ classDiagram
 title: "Broader Mathematical Context and Cross-References"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -695,7 +695,7 @@ flowchart TB
 title: "Sequence Relationships"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   theme: base

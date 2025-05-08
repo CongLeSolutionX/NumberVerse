@@ -22,7 +22,7 @@ version: 1.0
 ---
 
 
-# Visualizing OEIS A005900 - Octahedral Numbers - Darft
+# Visualizing OEIS A005900 - Octahedral Numbers - Draft
 
 
 Below is a comprehensive set of Mermaid diagrams and and explanatory illustrations capturing the structure and complexity of A005900 (the octahedral numbers sequence) from [the OEIS](https://oeis.org/A005900), describing its formulas, geometric significance, combinatorial interpretations, recurrence relations, links to polyhedral numbers, and numerous mathematical properties.
@@ -36,7 +36,7 @@ Below is a comprehensive set of Mermaid diagrams and and explanatory illustratio
 title: "What is OEIS A005900"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   theme: base
@@ -76,7 +76,7 @@ root(("Octahedral Numbers<br/>OEIS A005900"))
 title: "Sequence Structure & Core Formula"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -125,7 +125,7 @@ flowchart LR
 title: "Defining Formulas and Equivalent Expressions"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -180,7 +180,7 @@ flowchart LR
 title: "Platonic Solid Numbers"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -223,7 +223,7 @@ flowchart LR
 title: "Geometry - Octahedral Layers"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -267,7 +267,7 @@ flowchart TD
 title: "Combinatorial and Algebraic Interpretations"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -316,7 +316,7 @@ flowchart LR
 title: "Recurrence"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   theme: base
@@ -362,7 +362,7 @@ stateDiagram-v2
 title: "Generating Functions"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -402,7 +402,7 @@ flowchart TD
 title: "Algebraic & Programmatic Construction"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -444,7 +444,7 @@ flowchart TD
 title: "Inter-Sequence Links (Cross-References)"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -491,7 +491,7 @@ erDiagram
 title: "Application Contexts Summary"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -554,7 +554,7 @@ journey
 title: "Relationships in the Polyhedral Number Family"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -603,7 +603,7 @@ flowchart LR
 title: "OEIS Document Structure Illustration"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -662,7 +662,7 @@ Example: a(4) = 44
 title: "Example Calculation Tree"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -708,7 +708,7 @@ flowchart TD
 title: "Sequence Recurrence Expansion (Order 4 rec.)"
 author: "Cong Le"
 version: "0.1"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -769,7 +769,7 @@ flowchart LR
 title: "Connections to Other Mathematical Objects"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -815,7 +815,7 @@ flowchart TD
 title: "How to Compute - Algorithmic View"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk

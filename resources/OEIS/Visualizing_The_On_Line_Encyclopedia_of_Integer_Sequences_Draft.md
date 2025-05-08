@@ -1,24 +1,29 @@
 ---
-created: 2025-05-06 05:31:26
+title: "Visualizing The On-Line Encyclopedia of Integer Sequences Wiki page - Draft"
 author: Cong Le
-version: "1.0"
-license(s): MIT, CC BY 4.0
-copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
-source: https://oeis.org/wiki/Welcome
+created: 2025-05-08
+version: 1.0
 ---
 
 
+# Visualizing The On-Line Encyclopedia of Integer Sequences Wiki page - Draft
 
-# Visualizing The On-Line Encyclopedia of Integer Sequences
-> **Disclaimer:**
+> **Source Attribution:**
 >
-> This document contains my personal notes on the topic,
-> compiled from publicly available documentation and various cited sources.
-> The materials are intended for educational purposes, personal study, and reference.
-> The content is dual-licensed:
-> 1. **MIT License:** Applies to all code implementations (Swift, Mermaid, and other programming languages).
-> 2. **Creative Commons Attribution 4.0 International License (CC BY 4.0):** Applies to all non-code content, including text, explanations, diagrams, and illustrations.
+> This document incorporates or adapts material from:
+> - **The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/))
+> - The [OEIS Wiki Welcome page](https://oeis.org/wiki/Welcome)
+> - © The OEIS Foundation Inc.
+>
+> **License:**
+> 
+> - **OEIS-derived content** (any mathematical data, structure, text, or visuals based on OEIS): **CC BY-SA 4.0**
+> - If you adapt/redistribute these portions, you **must** provide attribution as above and license your derivative work under the same terms.
+> - **Original diagram source code** (e.g., Mermaid, PlantUML, or script syntax BY CONG LE, not including OEIS math/data): **MIT License**, unless otherwise stated.
+> - If you reuse just the code itself for unrelated subjects, **MIT** applies.
+
 ---
+
 
 
 
@@ -31,7 +36,7 @@ This mind map provides a high-level view of the OEIS, its components, and core p
 title: "OEIS Ecosystem Overview"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
 ---
@@ -100,7 +105,7 @@ This flowchart illustrates the primary ways users can engage with the OEIS platf
 title: "How Users Interact with OEIS"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -170,7 +175,7 @@ This mind map details the various components and information typically found wit
 title: "Anatomy of an OEIS Sequence Entry"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
 ---
@@ -263,7 +268,7 @@ This flowchart outlines the key events in the history of the OEIS.
 title: "OEIS Historical Milestones"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   theme: base
@@ -334,7 +339,7 @@ This flowchart describes the process for contributing to the OEIS and other ways
 title: "Contributing to OEIS and Getting Involved"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -406,7 +411,7 @@ This mind map covers downloadable data, reference books, and how to cite the OEI
 title: "OEIS Data, Resources, and Citation"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
 ---
@@ -480,7 +485,7 @@ This mind map focuses on how to interact with the OEIS community and find suppor
 title: "OEIS Community, Support, and Communication"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
 ---
@@ -548,7 +553,7 @@ Highlights of mentions, awards, and quotes showcasing the OEIS's significance.
 title: "OEIS Recognition and Impact"
 author: "Cong Le"
 version: "1.0"
-license(s): "MIT, CC BY 4.0"
+license(s): "MIT, CC BY-SA 4.0"
 copyright: "Copyright (c) 2025 Cong Le. All Rights Reserved."
 config:
   layout: elk
@@ -616,9 +621,14 @@ flowchart LR
 
 
 ---
-**Licenses:**
 
-- **MIT License:**  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) - Full text in [LICENSE](LICENSE) file.
-- **Creative Commons Attribution 4.0 International:** [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](LICENSE-CC-BY) - Legal details in [LICENSE-CC-BY](LICENSE-CC-BY) and at [Creative Commons official site](http://creativecommons.org/licenses/by/4.0/).
+**License and Attribution**
+
+> - Mathematical data and exposition adapted from **The Online Encyclopedia of Integer Sequences** (<https://oeis.org/>), [OEIS Wiki Welcome Page](https://oeis.org/wiki/Welcome), © OEIS Foundation Inc., licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/).
+> - Legal details in [LICENSE-CC-BY-SA-4.0](LICENSE-CC-BY-SA-4.0) and at [Creative Commons official site](https://creativecommons.org/licenses/by-sa/4.0/).
+> - Diagram and explanatory code © 2025 Cong Le, **MIT License** [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) (for code **only**)- Full text in [LICENSE](LICENSE) file.  
+>  
+> - If you adapt, redistribute, or make derivative works involving *OEIS-based content*, you must retain this notice and apply **CC BY-SA 4.0**.
 
 ---
+
