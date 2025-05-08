@@ -8,9 +8,9 @@ version: 1.0
 
 This document incorporates or adapts material from:
 
-- **The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/))
-- Specific sequence: [OEIS Axxxxxx](https://oeis.org/Axxxxxx)
-- © The OEIS Foundation Inc.
+**The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/))
+Specific sequence: [OEIS Axxxxxx](https://oeis.org/Axxxxxx)
+© The OEIS Foundation Inc.
 
 #### License
 Content in this document, including OEIS material and my original additions, is available under  
