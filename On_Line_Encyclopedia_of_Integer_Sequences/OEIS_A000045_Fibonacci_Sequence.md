@@ -20,6 +20,11 @@ source: https://oeis.org/A000045
 > 2. **Creative Commons Attribution 4.0 International License (CC BY 4.0):** Applies to all non-code content, including text, explanations, diagrams, and illustrations.
 ---
 
+
+
+This collection of diagrams below touches upon the definition, history, core formulas, various interpretations (combinatorial, algebraic), relationships to other mathematical entities, properties (like divisibility), and even a simple code structure. The Fibonacci sequence is incredibly rich, and many more specific details and formulas exist within [the original document](https://oeis.org/A000045). These diagrams aim to provide a structured visual entry point to its main concepts and complexities.
+
+
 ## 1. Fibonacci Sequence: Core Definition and History
 
 This diagram provides a basic introduction, the recurrence relation, initial terms, and a simplified historical timeline.
