@@ -3,21 +3,20 @@ title: "Visualizing OEIS A005900 - Octahedral Numbers"
 author: Cong Le
 created: 2025-05-08
 version: 1.0
+---
 
-### Source Attribution
-
-This document incorporates or adapts material from:
-
-**The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/))
-Specific sequence: [OEIS A005900](https://oeis.org/A005900)
-© The OEIS Foundation Inc.
-
-#### License
-Content in this document, including OEIS material and my original additions, is available under  
+> **Source Attribution:**
+>
+> This document incorporates or adapts material from:
+> 1. **The Online Encyclopedia of Integer Sequences** ([https://oeis.org/](https://oeis.org/))
+> 2. Specific sequence: [OEIS A005900](https://oeis.org/A005900)
+> 3. © The OEIS Foundation Inc.
+>
+> **License**
+> Content in this document, including OEIS material and my original additions, is available under  
 [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ---
-
 
 # Visualizing OEIS A005900 - Octahedral Numbers
 
