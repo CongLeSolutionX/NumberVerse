@@ -77,10 +77,11 @@ All **original code** in this repository (in `/Scripts` or similar) is licensed 
 
 ---
 
-## 🔒 Legal Notice
+## 📄 Legal Notice & Source Attribution
 
-- By using this repository, you agree to respect all source licenses and legal requirements.
-- If you wish to use a specific content piece for commercial or non-open source purposes, review its license—or contact the original provider if unsure.
+*   **License Compliance:** Your use of this repository signifies your agreement to adhere to all applicable source licenses and legal requirements.
+*   **Content Usage:** For any content intended for commercial or non-open source applications, please diligently review the specific license associated with that content. If licensing terms are unclear, contact the original author or rights holder.
+*   **Attribution & Corrections:** While every effort is made to ensure accurate attribution according to source licenses, errors or omissions may inadvertently occur. If you are an original author and believe your work has not been properly credited, please contact me at `conglejobs@gmail.com`. I am committed to promptly addressing any such concerns and ensuring appropriate citation.
 
 ---
 
